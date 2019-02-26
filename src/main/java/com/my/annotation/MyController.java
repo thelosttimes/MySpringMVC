@@ -15,5 +15,4 @@ public @interface MyController {
      * @return
      */
     String value() default "";
-
 }
